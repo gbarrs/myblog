@@ -1,0 +1,9 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-12 20:10:52) [GET]
+
+ActionController::RoutingError (No route matches "/recipes" with {:method=>:get}):
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
